@@ -1,0 +1,334 @@
+{
+  "skills": [
+    {
+      "id": "competitive-analysis",
+      "name": "竞争格局分析",
+      "nameEn": "Competitive Analysis",
+      "description": "分析目标行业/公司的竞争格局，包括市场结构、竞争对手定位、护城河评估和战略建议",
+      "icon": "⚔️",
+      "category": "strategy",
+      "tags": ["行业分析", "竞争", "战略"],
+      "samplePrompt": "分析中国新能源汽车行业竞争格局：主要玩家市占率、差异化策略、护城河深度，以及未来3年格局演变预判"
+    },
+    {
+      "id": "idea-generation",
+      "name": "选股灵感",
+      "nameEn": "Idea Generation",
+      "description": "基于量化筛选、主题研究和模式识别，发现潜在的投资机会",
+      "icon": "💡",
+      "category": "equity",
+      "tags": ["选股", "筛选", "投资机会"],
+      "samplePrompt": "在AI算力产业链中，筛选受益于国产替代且估值合理（PE<30x）的A股标的，重点关注封测和PCB环节"
+    },
+    {
+      "id": "sector-overview",
+      "name": "行业全景报告",
+      "nameEn": "Sector Overview",
+      "description": "生成全面的行业分析报告，涵盖市场规模、竞争格局、关键趋势和投资机会",
+      "icon": "📊",
+      "category": "research",
+      "tags": ["行业", "报告", "研究"],
+      "samplePrompt": "生成一份人形机器人行业深度报告：全球市场规模、核心零部件供应链、国内外主要玩家对比及未来5年渗透率预测"
+    },
+    {
+      "id": "morning-note",
+      "name": "晨会纪要",
+      "nameEn": "Morning Note",
+      "description": "生成简洁的晨会笔记，涵盖隔夜市场动态、交易机会和当日关键事件",
+      "icon": "☀️",
+      "category": "daily",
+      "tags": ["晨报", "市场动态", "交易"],
+      "samplePrompt": "生成今日A股晨会纪要：隔夜美股表现、北向资金动向、今日重要财报及宏观数据，以及值得关注的交易机会"
+    },
+    {
+      "id": "deal-screening",
+      "name": "项目初筛",
+      "nameEn": "Deal Screening",
+      "description": "快速筛选投资项目，提取关键指标，按投资标准做通过/不通过评估",
+      "icon": "🔍",
+      "category": "pe",
+      "tags": ["私募", "项目筛选", "尽调"],
+      "samplePrompt": "请初筛这个项目：国内头部工业软件SaaS公司，年ARR 1.8亿元，同比增长45%，NRR 118%，当前估值15亿，大客户占比60%，是否值得进入DD阶段？"
+    },
+    {
+      "id": "earnings-analysis",
+      "name": "财报深度解析",
+      "nameEn": "Earnings Analysis",
+      "description": "快速解读上市公司季报/年报，聚焦超预期/低预期分析、核心指标变化及对投资逻辑的影响",
+      "icon": "📋",
+      "category": "equity",
+      "tags": ["财报", "研报", "业绩"],
+      "samplePrompt": "解析腾讯2024Q4财报：收入/利润vs预期差异、各业务线拆分、游戏及广告增长质量，以及对全年展望的影响"
+    },
+    {
+      "id": "ic-memo",
+      "name": "投委会备忘录",
+      "nameEn": "IC Memo",
+      "description": "起草结构化的投委会决策备忘录，整合DD结论、财务分析、交易条款和投资建议",
+      "icon": "📝",
+      "category": "pe",
+      "tags": ["私募", "投委会", "决策"],
+      "samplePrompt": "为一个医疗器械项目起草IC备忘录：公司年收入5亿、EBITDA率28%、PE方拟以4.5亿美元收购55%股权，主要DD发现及投资建议"
+    },
+    {
+      "id": "deal-sourcing",
+      "name": "项目挖掘",
+      "nameEn": "Deal Sourcing",
+      "description": "系统化挖掘符合投资主题的目标公司，评估历史接触记录，起草个性化创始人触达邮件",
+      "icon": "🎯",
+      "category": "pe",
+      "tags": ["私募", "项目挖掘", "创始人触达"],
+      "samplePrompt": "帮我挖掘华东地区年收入5000万-3亿、创始人持股、EBITDA利润率>20%的工业自动化/精密制造细分龙头，并起草英文版创始人触达邮件"
+    },
+    {
+      "id": "catalyst-calendar",
+      "name": "催化剂日历",
+      "nameEn": "Catalyst Calendar",
+      "description": "整理覆盖标的的近期催化剂日历，包括财报日、分析师会议、监管事件和宏观节点",
+      "icon": "📅",
+      "category": "equity",
+      "tags": ["催化剂", "日历", "事件驱动"],
+      "samplePrompt": "整理未来6周内半导体板块的关键催化剂：英伟达/台积电/中芯国际财报日、行业会议、出口管制相关监管节点及潜在市场影响"
+    },
+    {
+      "id": "thesis-tracker",
+      "name": "投资逻辑追踪",
+      "nameEn": "Thesis Tracker",
+      "description": "维护和更新持仓/观察名单的投资逻辑，追踪核心假设验证进度，记录每次数据点对逻辑的影响",
+      "icon": "🧭",
+      "category": "equity",
+      "tags": ["投资逻辑", "持仓管理", "跟踪"],
+      "samplePrompt": "更新我对比亚迪的投资逻辑追踪：结合最新销量数据和海外扩张进展，评估'出海溢价'这一核心假设是否仍然成立，并更新目标价"
+    },
+    {
+      "id": "returns-analysis",
+      "name": "回报敏感性分析",
+      "nameEn": "Returns Analysis",
+      "description": "快速构建IRR/MOIC敏感性矩阵，覆盖进入估值、杠杆比例、退出倍数、增长率和持有期等关键变量",
+      "icon": "📈",
+      "category": "pe",
+      "tags": ["IRR", "MOIC", "敏感性分析"],
+      "samplePrompt": "构建一个PE项目的回报敏感性矩阵：进入EV/EBITDA 10x，4x杠杆，目标持有5年，分析退出倍数8-14x与EBITDA增长率10-25%组合下的IRR和MOIC区间"
+    },
+    {
+      "id": "earnings-preview",
+      "name": "财报前瞻分析",
+      "nameEn": "Earnings Preview",
+      "description": "财报发布前构建预期模型和情景框架，识别关键观察指标，设定多空触发条件",
+      "icon": "🔭",
+      "category": "equity",
+      "tags": ["财报", "前瞻", "情景分析"],
+      "samplePrompt": "为英伟达Q1 FY2026财报做前瞻分析：市场一致预期、数据中心收入关键假设、Blackwell出货进展，以及超预期/低于预期的股价反应情景"
+    },
+    {
+      "id": "dd-checklist",
+      "name": "尽调清单",
+      "nameEn": "Due Diligence Checklist",
+      "description": "按行业和交易类型生成定制化DD清单，涵盖所有主要工作流，支持进度追踪和红旗预警",
+      "icon": "✅",
+      "category": "pe",
+      "tags": ["尽调", "清单", "风控"],
+      "samplePrompt": "为一家B2B SaaS公司的PE收购生成完整DD清单：商业尽调、财务尽调、法律尽调和技术尽调四个工作流，重点标注SaaS业务的特殊关注项"
+    },
+    {
+      "id": "unit-economics",
+      "name": "单位经济模型",
+      "nameEn": "Unit Economics",
+      "description": "分析SaaS/订阅类业务的单位经济模型，包括ARR cohort、LTV/CAC、NRR、回收期和收入质量评估",
+      "icon": "🔬",
+      "category": "pe",
+      "tags": ["SaaS", "单位经济", "收入质量"],
+      "samplePrompt": "分析一家企业SaaS公司的单位经济：ARR 2亿、NRR 115%、CAC回收期18个月、大客户占比70%，评估收入质量和LTV/CAC是否支撑当前25倍ARR估值"
+    },
+    {
+      "id": "portfolio-monitoring",
+      "name": "组合公司监控",
+      "nameEn": "Portfolio Monitoring",
+      "description": "追踪和分析组合公司经营表现，对比预算差异，生成董事会汇报摘要和KPI仪表板",
+      "icon": "🗂️",
+      "category": "pe",
+      "tags": ["组合管理", "KPI", "董事会"],
+      "samplePrompt": "分析A组合公司Q3经营数据：收入vs预算差异、EBITDA利润率变化、现金流状况和财务契约合规情况，生成董事会月报摘要"
+    },
+    {
+      "id": "dcf-model",
+      "name": "DCF估值模型",
+      "nameEn": "DCF Model",
+      "description": "构建专业级DCF估值模型，覆盖自由现金流预测、WACC测算、终值估算和敏感性分析",
+      "icon": "🧮",
+      "category": "research",
+      "tags": ["DCF", "估值", "建模"],
+      "samplePrompt": "为宁德时代构建DCF估值模型：基于未来5年储能+动力电池收入拆分预测、WACC假设（含Beta/资本结构）、终值倍数法与永续增长法对比，输出内在价值区间"
+    },
+    {
+      "id": "comps-analysis",
+      "name": "可比公司分析",
+      "nameEn": "Comps Analysis",
+      "description": "构建机构级可比公司分析表，包含运营指标、估值倍数和统计基准，支持M&A和投资分析",
+      "icon": "⚖️",
+      "category": "research",
+      "tags": ["可比公司", "估值倍数", "横向对比"],
+      "samplePrompt": "为美团做可比公司分析：选取全球本地生活服务和外卖平台可比标的，对比EV/Revenue、EV/EBITDA、P/E及增长率，评估当前估值所隐含的溢价或折价"
+    },
+    {
+      "id": "initiating-coverage",
+      "name": "首次覆盖报告",
+      "nameEn": "Initiating Coverage",
+      "description": "生成机构级首次覆盖研报，包含公司研究、财务建模、估值分析、图表生成和完整报告合成五个阶段",
+      "icon": "🏛️",
+      "category": "research",
+      "tags": ["研报", "首次覆盖", "深度研究"],
+      "samplePrompt": "对智谱AI（假设上市）启动首次覆盖：完成公司研究、财务三表预测、DCF+可比估值、关键图表，最终生成完整的买入/持有/卖出评级报告"
+    },
+    {
+      "id": "doc-parse-and-exam",
+      "name": "文档解析与检验",
+      "nameEn": "Doc Parse and Exam",
+      "description": "综合文档解析与检验工具包，支持OCR文字识别、银行流水验证、图像质量检测。支持Qwen3-VL、PaddleOCR VL 1.5、PP-OCR、Kimi等多模型，可处理银行账单、发票等各类文档",
+      "icon": "📄",
+      "category": "tools",
+      "tags": ["OCR", "文档解析", "银行流水", "图像检测", "数据验证"],
+      "samplePrompt": "解析这张银行流水图片，先检测图像质量，再用Qwen3和PP-OCR双重解析，最后验证交易金额与余额的逻辑一致性"
+    },
+    {
+      "id": "ai-trend-insights",
+      "name": "AI趋势洞察",
+      "nameEn": "AI Trend Insights",
+      "description": "追踪全球AI行业最新技术趋势、融资动态、人才流动和产品发布，生成AI行业周报",
+      "icon": "🤖",
+      "category": "daily",
+      "tags": ["AI", "趋势", "周报"],
+      "samplePrompt": "生成本周AI行业趋势简报：主要模型发布、融资新闻、重要人才变动，以及对AI产业链各环节的影响分析"
+    },
+    {
+      "id": "bilibili-ai-digest",
+      "name": "B站AI内容摘要",
+      "nameEn": "Bilibili AI Digest",
+      "description": "抓取B站AI相关热门视频，生成内容摘要和观点提炼，追踪中文社区AI讨论热点",
+      "icon": "📺",
+      "category": "daily",
+      "tags": ["B站", "AI", "内容摘要"],
+      "samplePrompt": "整理本周B站AI热门视频：技术解析、产品评测、行业观点，提取核心论点和社区讨论热点"
+    },
+    {
+      "id": "check-model",
+      "name": "财务模型质检",
+      "nameEn": "Model Checker",
+      "description": "审计Excel财务模型的完整性，检查循环引用、硬编码覆盖、三表平衡、现金流勾稽和逻辑漏洞",
+      "icon": "🔧",
+      "category": "research",
+      "tags": ["模型", "质检", "审计", "DCF", "LBO"],
+      "samplePrompt": "帮我检查这个DCF模型：是否存在循环引用、资产负债表是否平衡、现金流是否勾稽、有无硬编码覆盖"
+    },
+    {
+      "id": "cim-builder",
+      "name": "CIM撰写",
+      "nameEn": "CIM Builder",
+      "description": "为卖方M&A流程起草保密信息备忘录(CIM)，将公司信息组织成专业的、面向投资者的销售文档",
+      "icon": "📖",
+      "category": "pe",
+      "tags": ["卖方", "M&A", "CIM", "信息备忘录"],
+      "samplePrompt": "为这个工业软件公司起草CIM：年收入2亿、EBITDA率25%、增速30%、创始团队背景、产品技术优势、客户结构"
+    },
+    {
+      "id": "merger-model",
+      "name": "并购模型",
+      "nameEn": "Merger Model",
+      "description": "构建并购增厚/摊薄分析，模拟交易对每股收益(EPS)的影响、协同效应敏感性和Purchase Price Allocation",
+      "icon": "🔄",
+      "category": "research",
+      "tags": ["并购", "增厚摊薄", "EPS", "协同效应"],
+      "samplePrompt": "构建这个收购案的并购模型：收购方EPS $5、目标方EPS $3、交易对价15%溢价、50%现金50%股票、预计协同效应$5000万，分析对收购方EPS的增厚影响"
+    },
+    {
+      "id": "lbo-model",
+      "name": "LBO模型",
+      "nameEn": "LBO Model",
+      "description": "完成LBO杠杆收购模型的Excel模板填充，包含Sources & Uses、Operating Model、Debt Schedule和Returns Analysis",
+      "icon": "🏗️",
+      "category": "pe",
+      "tags": ["LBO", "杠杆收购", "PE", "回报分析"],
+      "samplePrompt": "填充这个LBO模型：收购价格10亿美元、4x杠杆、持有期5年、预计退出倍数12x，计算IRR和MOIC"
+    },
+    {
+      "id": "check-deck",
+      "name": "PPT质检",
+      "nameEn": "Deck Checker",
+      "description": "投行级演示文稿质量检查：数字一致性、数据-叙述对齐、语言润色和格式QC",
+      "icon": "📐",
+      "category": "tools",
+      "tags": ["PPT", "质检", "格式", "投行"],
+      "samplePrompt": "检查这个Pitch Deck：所有slide的数字是否一致、图表与叙述是否对齐、语言是否符合投行标准、格式是否规范"
+    },
+    {
+      "id": "teaser",
+      "name": "Teaser撰写",
+      "nameEn": "Teaser",
+      "description": "起草匿名一页纸公司简介(Teaser)，用于卖方M&A流程初期接触潜在买家，不暴露公司身份",
+      "icon": "🎭",
+      "category": "pe",
+      "tags": ["卖方", "Teaser", "匿名", "一页纸"],
+      "samplePrompt": "为这个SaaS公司起草Teaser：ARR 5000万、增速40%、NRR 120%、客户续约率95%，匿名化处理，突出投资亮点"
+    },
+    {
+      "id": "strip-profile",
+      "name": "公司画像",
+      "nameEn": "Strip Profile",
+      "description": "创建投行级的公司画像(Strip Profile)，用于Pitch Book和交易材料，1-4页高密度信息展示",
+      "icon": "🎨",
+      "category": "research",
+      "tags": ["公司画像", "Pitch Book", "四象限"],
+      "samplePrompt": "为特斯拉创建公司画像：一页四象限布局，包含公司概览、业务定位、关键财务、股票表现和股东结构"
+    },
+    {
+      "id": "pitch-deck",
+      "name": "Pitch Deck填充",
+      "nameEn": "Pitch Deck Population",
+      "description": "将数据源(Excel/CSV/研报)的数据填充到投行Pitch Deck模板中，保持格式一致性和数据准确性",
+      "icon": "📑",
+      "category": "tools",
+      "tags": ["Pitch", "模板填充", "数据迁移"],
+      "samplePrompt": "将这个可比公司分析表的数据填充到Pitch Deck模板中，保持原有格式，更新所有数字"
+    },
+    {
+      "id": "deal-tracker",
+      "name": "交易追踪",
+      "nameEn": "Deal Tracker",
+      "description": "追踪多个活跃交易的里程碑、截止日期和行动项，维护交易管道视图，预警即将到期和逾期事项",
+      "icon": "📍",
+      "category": "pe",
+      "tags": ["交易追踪", "里程碑", "管道管理"],
+      "samplePrompt": "帮我更新Project Alpha的交易进度：CIM已分发、IOI截止日下周、3个买家进入第二轮、需要安排管理层会议"
+    },
+    {
+      "id": "buyer-list",
+      "name": "买家名单",
+      "nameEn": "Buyer List",
+      "description": "为卖方M&A流程构建潜在收购方名单，识别战略买家和财务投资人，评估匹配度并排序 outreach 优先级",
+      "icon": "🎯",
+      "category": "pe",
+      "tags": ["买家名单", "M&A", "战略买家", "PE"],
+      "samplePrompt": "为这家医疗器械公司构建买家名单：年收入3亿、净利润率15%、产品出口欧美，筛选战略买家和财务投资人"
+    },
+    {
+      "id": "process-letter",
+      "name": "流程函件",
+      "nameEn": "Process Letter",
+      "description": "起草卖方M&A流程函件和投标说明，包括IOI说明、终轮投标程序和管理层会议安排",
+      "icon": "✉️",
+      "category": "pe",
+      "tags": ["流程函件", "IOI", "投标", "卖方"],
+      "samplePrompt": "起草Project Beta的IOI流程函件：交易概述、IOI提交要求、时间表、评估标准，以及数据室访问说明"
+    },
+    {
+      "id": "datapack-builder",
+      "name": "数据包构建",
+      "nameEn": "Data Pack Builder",
+      "description": "从CIM、招股书、SEC文件等来源提取、标准化财务数据，构建投委会级Excel数据包",
+      "icon": "📦",
+      "category": "pe",
+      "tags": ["数据包", "财务数据", "标准化", "投委会"],
+      "samplePrompt": "从这个CIM中提取财务数据，构建标准8-tab数据包：Executive Summary、三表、运营指标、分部表现、市场分析和投资亮点"
+    }
+  ]
+}
