@@ -1,0 +1,726 @@
+{
+  "source": "/home/ubuntu/.openclaw-public/workspace/task-ppt",
+  "count": 144,
+  "skills": [
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/1password",
+      "files": 3,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/apple-notes",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/apple-reminders",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/bear-notes",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/blogwatcher",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/blucli",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/bluebubbles",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/camsnap",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/canvas",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/clawhub",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/coding-agent",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/discord",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/eightctl",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/gemini",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/gh-issues",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/gifgrep",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/github",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/gog",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/goplaces",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/healthcheck",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/himalaya",
+      "files": 3,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/imsg",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/mcporter",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/model-usage",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/nano-pdf",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/node-connect",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/notion",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/obsidian",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/openai-whisper",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/openai-whisper-api",
+      "files": 2,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/openhue",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/oracle",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/ordercli",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/peekaboo",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/sag",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/session-logs",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/sherpa-onnx-tts",
+      "files": 2,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/skill-creator",
+      "files": 7,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/slack",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/songsee",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/sonoscli",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/spotify-player",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/summarize",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/taskflow",
+      "files": 3,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/taskflow-inbox-triage",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/things-mac",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/tmux",
+      "files": 3,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/trello",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/video-frames",
+      "files": 2,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/voice-call",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/wacli",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/weather",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/openclaw-core/xurl",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/plugin/browser-automation",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/session-selected/sector-overview",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/all-skills/skills/user/wind-mcp-skill",
+      "files": 7,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/competitive-analysis",
+      "files": 2,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/earnings-analysis",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/ai-trend-insights",
+      "files": 11,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/bilibili-ai-digest",
+      "files": 2,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/buyer-list",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/catalyst-calendar",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/check-deck",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/check-model",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/cim-builder",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/competitive-analysis",
+      "files": 3,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/comps-analysis",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/datapack-builder",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/dcf-model",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/dd-checklist",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/deal-screening",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/deal-sourcing",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/deal-tracker",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/doc-parse-and-exam",
+      "files": 17,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/earnings-analysis",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/earnings-preview",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/ic-memo",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/idea-generation",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/initiating-coverage",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/lbo-model",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/merger-model",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/morning-note",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/pitch-deck",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/portfolio-monitoring",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/pptx",
+      "files": 60,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/process-letter",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/returns-analysis",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/sector-overview",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/sentiment-analysis-pipeline",
+      "files": 1,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/sentiment-deep-analyst",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/sentiment-entity-linker",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/sentiment-news-collector",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/sentiment-report-writer",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/sentiment-scorer",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/skill-creator",
+      "files": 19,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/strip-profile",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/teaser",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/test-skill",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/thesis-tracker",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/openclaw-public-workspace-skills/unit-economics",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/process-letter",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/ai-trend-insights",
+      "files": 3,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/bilibili-ai-digest",
+      "files": 2,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/buyer-list",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/catalyst-calendar",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/check-deck",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/check-model",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/cim-builder",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/competitive-analysis",
+      "files": 3,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/comps-analysis",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/datapack-builder",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/dcf-model",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/dd-checklist",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/deal-screening",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/deal-sourcing",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/deal-tracker",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/doc-parse-and-exam",
+      "files": 17,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/earnings-analysis",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/earnings-preview",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/ic-memo",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/idea-generation",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/initiating-coverage",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/lbo-model",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/merger-model",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/morning-note",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/pitch-deck",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/portfolio-monitoring",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/process-letter",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/returns-analysis",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/sector-overview",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/sentiment-analysis-pipeline",
+      "files": 1,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/sentiment-deep-analyst",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/sentiment-entity-linker",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/sentiment-news-collector",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/sentiment-report-writer",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/sentiment-scorer",
+      "files": 4,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/skill-creator",
+      "files": 18,
+      "has_references": true
+    },
+    {
+      "path": "finance-skills/skillchat-skills/strip-profile",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/teaser",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/test-skill",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/thesis-tracker",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/skillchat-skills/unit-economics",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/thesis-tracker",
+      "files": 1,
+      "has_references": false
+    },
+    {
+      "path": "finance-skills/wind-mcp-skill",
+      "files": 7,
+      "has_references": true
+    }
+  ]
+}
