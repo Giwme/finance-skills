@@ -1,0 +1,60 @@
+{
+  "title": "AI金融行业趋势洞察周报",
+  "subtitle": "面向银行/证券/保险高管的战略简报",
+  "date": "2026年第X周",
+  "author": "AI趋势研究团队",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "AI金融行业趋势洞察",
+      "date": "2026年X月第X周"
+    },
+    {
+      "type": "summary",
+      "title": "本周核心洞察",
+      "points": [
+        "模型能力持续演进：XXX",
+        "金融应用场景突破：XXX",
+        "算力成本继续下降：XXX",
+        "监管政策新动向：XXX"
+      ]
+    },
+    {
+      "type": "model_evolution",
+      "title": "模型能力演进",
+      "content": "从工具到协作者的转变"
+    },
+    {
+      "type": "finance_application",
+      "title": "金融应用生态",
+      "content": "业务入口重构与场景落地"
+    },
+    {
+      "type": "infrastructure",
+      "title": "算力与工具链",
+      "content": "投入逻辑与架构趋势"
+    },
+    {
+      "type": "recommendations",
+      "title": "战略建议",
+      "content": "优先级排序与时间轴"
+    },
+    {
+      "type": "end",
+      "title": "谢谢",
+      "contact": "AI趋势研究团队"
+    }
+  ],
+  "charts": [
+    {
+      "type": "line",
+      "title": "大模型上下文窗口演进",
+      "data_source": "实时搜索数据"
+    },
+    {
+      "type": "matrix",
+      "title": "金融AI场景优先级矩阵",
+      "quadrants": ["Quick Win", "战略投入", "可考虑", "暂不建议"]
+    }
+  ]
+}
