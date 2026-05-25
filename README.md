@@ -1,7 +1,8 @@
-# finance-skills
+# Finance Skills
 
-金融与商业分析相关 OpenClaw AgentSkills 集合。
+This repository packages finance-related OpenClaw / AgentSkill folders.
 
-## Skills
+## Included skills
 
-- [`competitive-analysis`](./competitive-analysis/)：竞争格局分析框架，用于市场结构、竞品定位、护城河评估和战略建议。
+- `competitive-analysis` — Competitive landscape analysis framework for market structure, peer positioning, moat assessment, and strategic recommendations.
+- `wind-mcp-skill` — Wind financial data access skill covering equities, funds, indices, bonds, announcements, news, macro, and industry indicators.
